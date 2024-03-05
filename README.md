@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanlin Rookie ZHANG, an incoming PhD student at CityU
 - 👀 I’m interested in LLM, AI agent, MultiModal
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on academic research
 - 📫 Find me at hanlinzhang1004@gmail.com
 
 <!---
